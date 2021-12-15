@@ -1,5 +1,5 @@
 # Sketch-Designs
-A portfolio of design concepts 
+A portfolio of design concepts for iOS
 
 
 Requirements to open designs
